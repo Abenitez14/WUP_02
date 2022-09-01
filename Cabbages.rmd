@@ -44,6 +44,11 @@ In cult c52 there is more VitC in it then there is in cult c39.
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The mean of Cult c39 is 51.5 and the mean for Cult c52 is 64.4 this shows that C52's result to VitC is much greater the C39.
 
 ## Inferential Results
 
