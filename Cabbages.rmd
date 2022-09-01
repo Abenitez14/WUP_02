@@ -57,8 +57,9 @@ The mean of Cult c39 is 51.5 and the mean for Cult c52 is 64.4 this shows that C
 t.test(VitC~Cult,data=veggy)
 ```
 
-Through using the helper t.test it shows us that the true difference in means between group c39 and group c52 is not equal to 0 95 percent confidence interval. 
+Through using the helper t.test it shows us that the true difference in means between group c39 and group c52 is not equal to 0 95 percent confidence interval.The specific percentage of chance for it to work is .00000003405.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+They are two different methods of cultivation group c52 has a greater mean then c39. They are not equal they have a very very small chance of it working. There p value is .00000003405 that is way to be small of a chance to work. But c52 has way more VitC in it so it is healthier but still a small chance for c39 to ever be able to work in any sense. 
